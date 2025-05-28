@@ -1,6 +1,6 @@
 ## Hi, I'm Perrine
 
-Welcome to my GitHub profile! 🚀 
+Welcome to my GitHub profile! 
 
 <!-- ## 🛠️ Technologies & Tools
 * Languages: HTML, CSS, Javascript, Python, PHP.
