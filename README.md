@@ -14,9 +14,8 @@ Here's a breakdown of my technical toolkit:
  * PHP
  * Symfony
 
-### Containerization & Versioning 
+### Containerization
  * Docker
- * Git
 
 ### Database
  * MySQL
