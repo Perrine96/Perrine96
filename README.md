@@ -1,11 +1,28 @@
-## Hi, I'm Perrine
+# Hi, I'm Perrine
 
 Welcome to my GitHub profile! 
 
-<!-- ## 🛠️ Technologies & Tools
-* Languages: HTML, CSS, Javascript, Python, PHP.
-* Frameworks: Symfony, React.
-* Others: Git, Docker, Dbeaver.
+## My Skillset
+Here's a breakdown of my technical toolkit: 
 
- ## 📫 Contact Me 
+### Frontend Development 
+ * HTML
+ * CSS
+ * JavaScript
+
+### Backend Development 
+ * PHP
+ * Symfony
+
+### Containerization & Versioning 
+ * Docker
+ * Git
+
+### Database
+ * MySQL
+ * PostgreSQL
+ * DBeaver
+
+### Methodologies
+ * Agile (Scrum/Kanban)
 
